@@ -1,2 +1,2 @@
 # MisSVG
-Aca mis trabajos artisticos hechos en svg. Fuera de ALSW, en mi tiempo libre.
+Aca mis trabajos en tiempo libre, por practicar, por distraerme... solo por que si.
